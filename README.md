@@ -25,7 +25,7 @@ This project simulates real-time dynamic parking pricing using vehicle data, con
 
 ## 🏗️ Architecture Diagram
 
-Check out [`architecture.md`](architecture.md) or the diagram in `/diagrams`.
+Check out [`architecture.md`](architecture.md) or the diagram in `architecture.png`.
 
 ---
 

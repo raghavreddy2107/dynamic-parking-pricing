@@ -32,10 +32,10 @@ See [architecture.md](architecture.md) or `diagrams/architecture_diagram.png`
 ## 📂 Project Structure
 
 ```bash
-.
-├── simulation.py             # Main code
-├── data/dataset.csv          # Input dataset
-├── diagrams/                 # Architecture diagram
-├── README.md
-├── architecture.md
-└── requirements.txt
+dynamic-parking-pricing/
+├── simulation.py # Main simulation script
+├── data/dataset.csv # Real-world dataset used for simulation
+├── diagrams/ # Architecture or flow diagrams
+├── README.md # This file
+├── requirements.txt # Python dependencies
+└── architecture.md # Architecture explanation (or image)
